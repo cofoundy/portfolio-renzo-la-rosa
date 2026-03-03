@@ -43,7 +43,7 @@ export const siteConfig = {
     {
       name: "ML Propensity Models — Sales Optimization",
       description:
-        "Developed Random Forest, Logistic Regression, and Survival Analysis models that drove a 30% increase in product sales and $15M in additional revenue in the first year.",
+        "Developed Random Forest, Logistic Regression, and Survival Analysis models that drove a 30% sales growth and $15M in additional revenue in the first year.",
       link: "",
       skills: ["Random Forest", "Survival Analysis", "Python"],
     },
@@ -64,7 +64,7 @@ export const siteConfig = {
     {
       name: "NLP Pipeline — Medical Records Extraction",
       description:
-        "Developed OCR, classification, and NER pipelines to extract information from large medical records, reducing case review time by 40%.",
+        "Developed OCR, classification, and NER pipelines to extract information from large medical records, achieving a 40% efficiency gain in case reviews.",
       link: "",
       skills: ["NLP", "OCR", "NER", "Python"],
     },
@@ -83,11 +83,11 @@ export const siteConfig = {
       title: "Senior Data Scientist",
       dateRange: "Mar 2024 — Present",
       bullets: [
-        "Developed ML propensity models driving 30% increase in product sales and $15M in additional revenue",
+        "Developed ML propensity models driving <strong>30% sales growth</strong> and <strong>$15M</strong> in additional revenue",
         "Technical owner for production ML models, presenting insights to executive stakeholders",
-        "Designed quantile regression model projected to generate $10M+ in annual revenue",
+        "Designed quantile regression model projected to generate <strong>$10M+</strong> in annual revenue",
         "Built executive ROI dashboards in Sigma to track model performance and business impact",
-        "Mentor and supervise five junior data scientists across U.S. and India",
+        "Mentor and supervise <strong>5 junior data scientists</strong> across U.S. and India",
       ],
     },
     {
@@ -95,9 +95,9 @@ export const siteConfig = {
       title: "Data Science Consultant",
       dateRange: "Nov 2021 — Mar 2024",
       bullets: [
-        "Developed credit risk clustering methodology — key component of a $50M client proposal",
+        "Developed credit risk clustering methodology — key component of a <strong>$50M</strong> client proposal",
         "Implemented GenAI chatbot using LangChain, FAISS, and RAG architecture",
-        "Built NLP pipelines (OCR, classification, NER) reducing case review time by 40%",
+        "Built NLP pipelines (OCR, classification, NER) achieving a <strong>40% efficiency gain</strong>",
         "Validated classification models for mortgage lenders ensuring regulatory compliance",
       ],
     },
@@ -107,7 +107,7 @@ export const siteConfig = {
       dateRange: "Jul 2018 — Nov 2021",
       bullets: [
         "Optimized aircraft maintenance with predictive algorithms in Python and SQL",
-        "Led root-cause analysis reducing production costs by $67K per unit",
+        "Led root-cause analysis reducing production costs by <strong>$67K per unit</strong>",
         "Developed thermodynamic performance models for safety investigations",
       ],
     },

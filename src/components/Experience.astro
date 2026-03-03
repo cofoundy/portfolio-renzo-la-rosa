@@ -51,7 +51,7 @@ const hasExperience = siteConfig.experience && siteConfig.experience.length > 0;
               {exp.bullets.map((bullet) => (
                 <li class="flex items-start text-sm text-gray-600">
                   <span class="inline-block w-1.5 h-1.5 rounded-full mt-1.5 mr-2 flex-shrink-0" style={`background-color: ${siteConfig.highlightColor}`} />
-                  <Fragment set:html={bullet} />
+                  <span class="break-words" set:html={bullet} />
                 </li>
               ))}
             </ul>
